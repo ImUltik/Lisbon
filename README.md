@@ -7,7 +7,9 @@ Domain X customized.
 Modified positions, modified User Interface in roblox studio.
 
 ## How do i get it?
-You may get lisbon in the "Latest" file.
+You may get use lisbon by executing this.
+
+## loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ImUltik/Lisbon/main/Latest.lua"))()
 
 
 ## Is it safe?
