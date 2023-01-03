@@ -1044,7 +1044,7 @@ function AddPlayer(Player)
 		NewPlr.PremiumBar.Visible = false
 	else 
 		NewPlr.PremiumBar.Text.Text = "Owner"
-		NewPlr.PremiumBar.BackgroundColor3 = Color3.fromRGB(122, 86, 214)
+		NewPlr.PremiumBar.BackgroundColor3 = Color3.fromRGB(224, 16, 16)
 	end
 	if NewPlr:FindFirstChild("Avatar") then
 		NewPlr.Avatar.Image = game.Players:GetUserThumbnailAsync(Player.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size60x60)
