@@ -7,7 +7,7 @@ Domain X customized.
 Modified positions, modified User Interface in roblox studio.
 
 ## How do i get it?
-You may get lisbon in the "Main" file.
+You may get lisbon in the "Latest" file.
 
 
 ## Is it safe?
