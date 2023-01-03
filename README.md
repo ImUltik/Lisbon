@@ -23,7 +23,7 @@ https://v3rmillion.net/showthread.php?tid=1139087```
 No lol. The "Home" Menu is based from Sirius.
 
 ## Will this get updates?
-Probably not. Mabye i the future.
+Probably not. Mabye in the future.
 
 ## Who made this?
 Me, Known as ferry#1713 on Discord. You can find me by clicking <strong><a href="https://discord.com/users/898944140828606514">This</a></strong>
