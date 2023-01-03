@@ -18,4 +18,6 @@ Yes, Lisbon works the same as Domain X apart from it's wonderful ui.
 No. ----> https://v3rmillion.net/showthread.php?tid=1139087
 
 
-## ![image](https://user-images.githubusercontent.com/104308255/210346993-603c2581-da29-4e04-88f3-b846e702a8e5.png)
+## <img width="1680" alt="image" src="https://user-images.githubusercontent.com/104308255/210347764-15e6b353-d59d-4c53-be15-70a0306d8041.png">
+
+
