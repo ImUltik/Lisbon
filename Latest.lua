@@ -82,7 +82,7 @@ end
 -- DMNX
 
 
-local Domain = game:GetObjects("rbxassetid://12009334473")[1]
+local Domain = game:GetObjects("rbxassetid://12016197276")[1]
 
 if DebugMode then
 	warn("Lisbon - Loaded Main UI")
