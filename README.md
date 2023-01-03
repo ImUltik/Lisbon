@@ -25,6 +25,11 @@ No lol. The "Home" Menu is based from Sirius.
 ## Will this get updates?
 Probably not. Mabye i the future.
 
+## Who made this?
+Me, Known as ferry#1713 on Discord. You can find me by clicking <strong><a href="https://discord.com/users/898944140828606514">This</a></strong>
+
+
+#
 
 ## <img width="1680" alt="image" src="https://user-images.githubusercontent.com/104308255/210347764-15e6b353-d59d-4c53-be15-70a0306d8041.png">
 
