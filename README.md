@@ -10,8 +10,7 @@ Modified positions, modified User Interface in roblox studio.
 You may get use lisbon by executing this.
 ```lua
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ImUltik/Lisbon/main/Latest.lua"))()
-
-
+```
 ## Is it safe?
 Yes, Lisbon works the same as Domain X apart from it's wonderful ui.
 
