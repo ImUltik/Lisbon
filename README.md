@@ -11,4 +11,8 @@ You may get lisbon in the "Main" file.
 
 
 ## Is it safe?
-Yes, Lisbon works the same as Domain X apart from it's  ## it's wonderful ui.
+Yes, Lisbon works the same as Domain X apart from it's wonderful ui.
+
+
+## Is this the original?
+No. ----> https://v3rmillion.net/showthread.php?tid=1139087
