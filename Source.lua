@@ -520,7 +520,7 @@ function Toast(Content,Font)
 			notifClone:Destroy()
 			figureToasts(ToastStack,notificationContainer)
 		end)
-	end
+	end --cock
 end
 
 function Notify(Title,Content,Image,Rotation,ImageRectOffset)
