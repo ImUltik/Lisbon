@@ -395,14 +395,14 @@ local DetectionScripts = {
 	StopItSlender = {
 		Name = "Stop It Slender!",
 		Description = "This script is a community submitted script, we have no info on it",
-		Games = {4483381587},
+		Games = {30869879}, --4483381587
 		Premium = false,
 		Loadstring = "https://pastebin.com/raw/hFxynXvs",
 	},
 		ALiteralBaseplate = {
 		Name = "A Literal Baseplate",
 		Description = "Example for infinite yield",
-		Games = {30869879},
+		Games = {4483381587},
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
 	},
