@@ -214,7 +214,13 @@ local UniversalScripts = {
 		Author = "Edge",
 		Loadstring = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
 		Colour = Color3.fromRGB(57, 57, 57),
-	},
+	}, -------	
+	Vadrifts = {
+		Name = "Vadrifts Bypass",
+		Author = "Pussy",
+		Loadstring = "https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua",
+		Colour = Color3.fromRGB(40, 39, 43),
+	}, -------  
 	SiriusUni = {
 		Name = "Sirius Universal",
 		Author = "Sirius",
