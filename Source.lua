@@ -314,13 +314,6 @@ local DetectionScripts = {
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/Urbanstorms/Lisbon/main/DBR.lua",
 	},
-	Vega = {
-		Name = "Vega Remover",
-		Description = "A powerful tool that removes known barriers in cafe games",
-		Games = {5580097107,738548299,610172644,1217895158,3522042406,679498303},
-		Premium = false,
-		Loadstring = "https://raw.githubusercontent.com/realvega/VegaRemover/main/source",
-	},
 	KaijuParadise = {
 		Name = "Kaiju Paradise",
 		Description = "This script is a community submitted script, we have no info on it",
@@ -408,7 +401,7 @@ local DetectionScripts = {
 		venenium = {
 		Name = "Venenium Bypasser",
 		Description = "Chat Bypasser, very fun to use. Discord.gg/venenium",
-		Games = {5605041779, 9298624201, 7055501563, 8310127828},
+		Games = {5605041779, 9298624201, 7055501563, 8310127828, 6884319169, 2788229376, 5580097107},
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua",
 	},
