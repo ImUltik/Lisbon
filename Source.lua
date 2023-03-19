@@ -405,6 +405,13 @@ local DetectionScripts = {
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
 	},
+		Vadrifts = {
+		Name = "Vadrifts Bypasser",
+		Description = "Chat Bypasser, very fun to use",
+		Games = {5605041779, 9298624201, 7055501563, 8310127828},
+		Premium = false,
+		Loadstring = "https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua",
+	},
 	inooarctic = {
 		Name = "Remote Control Panel",
 		Description = "Mess around with the cooling elements of the core",
