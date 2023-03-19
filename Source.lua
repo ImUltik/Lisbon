@@ -216,9 +216,9 @@ local UniversalScripts = {
 		Colour = Color3.fromRGB(57, 57, 57),
 	}, -------	
 	Vadrifts = {
-		Name = "Vadrifts Bypass",
-		Author = "Pussy",
-		Loadstring = "https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua",
+		Name = "Vadrifts Bypasser",
+		Author = "Execute alternate version.",
+		Loadstring = "https://raw.githubusercontent.com/ImUltik/Lisbon/main/Scripts/Vadrifts",
 		Colour = Color3.fromRGB(40, 39, 43),
 	}, -------  
 	SiriusUni = {
