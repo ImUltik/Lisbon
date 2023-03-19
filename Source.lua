@@ -215,9 +215,9 @@ local UniversalScripts = {
 		Loadstring = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
 		Colour = Color3.fromRGB(57, 57, 57),
 	}, -------	
-	Vadrifts = {
-		Name = "Vadrifts Bypasser",
-		Author = "Execute alternate version.",
+	venenium = {
+		Name = "Venenium Bypasser",
+		Author = "discord.gg/venenium",
 		Loadstring = "https://raw.githubusercontent.com/ImUltik/Lisbon/main/Scripts/Vadrifts",
 		Colour = Color3.fromRGB(40, 39, 43),
 	}, -------  
@@ -405,9 +405,9 @@ local DetectionScripts = {
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
 	},
-		Vadrifts = {
-		Name = "Vadrifts Bypasser",
-		Description = "Chat Bypasser, very fun to use",
+		venenium = {
+		Name = "Venenium Bypasser",
+		Description = "Chat Bypasser, very fun to use. Discord.gg/venenium",
 		Games = {5605041779, 9298624201, 7055501563, 8310127828},
 		Premium = false,
 		Loadstring = "https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsloader.lua",
