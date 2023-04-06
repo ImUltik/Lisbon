@@ -6,25 +6,14 @@
     "RewardValue": "EpicBooth"
 },
 
-"Yipeeeee": {
-    "Active": true,
-    "RewardType": "Booth",
-    "RewardValue": "YippeeBooth"
-},
   
 "Hurox15": {
      "Active": true,
      "RewardType": "Booth",
      "RewardValue": "BlackHoleBooth"
 }, 
-  "Spooky": {
-     "Active": true,
-     "RewardType": "Booth",
-     "RewardValue": "GhostBooth"
-},
 
-
-"RocketBooth2023": {
+"PlsDonateLOL": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "RocketBooth"
