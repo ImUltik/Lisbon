@@ -1,22 +1,20 @@
 {
-
 "PlsDonate10": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "EpicBooth"
 },
 
-  
-"Hurox15": {
-     "Active": true,
-     "RewardType": "Booth",
-     "RewardValue": "BlackHoleBooth"
-}, 
-
-"PlsDonateLOL": {
+"ZenuuxSecret": {
     "Active": true,
     "RewardType": "Booth",
-    "RewardValue": "RocketBooth"
+    "RewardValue": "ZenuuxBooth"
+},
+
+"Hurox15": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "BlackHoleBooth"
 }
 
 }
