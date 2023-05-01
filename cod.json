@@ -6,13 +6,13 @@
     "RewardValue": "EpicBooth"
 },
 
-"ZenuuxSecret": {
-    "Active": false,
+"Shhh!": {
+    "Active": true,
     "RewardType": "Booth",
     "RewardValue": "ZenuuxBooth"
 },
 
-"Nasa": {
+"RocketPower": {
     "Active": true,
     "RewardType": "Booth",
     "RewardValue": "RocketBooth"
