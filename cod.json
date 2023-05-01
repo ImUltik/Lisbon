@@ -1,0 +1,21 @@
+{
+
+"Saturn": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "EpicBooth"
+},
+
+"ZenuuxSecret": {
+    "Active": false,
+    "RewardType": "Booth",
+    "RewardValue": "ZenuuxBooth"
+},
+
+"Nasa": {
+    "Active": true,
+    "RewardType": "Booth",
+    "RewardValue": "RocketBooth"
+}
+
+}
